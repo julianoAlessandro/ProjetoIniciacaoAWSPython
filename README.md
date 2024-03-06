@@ -1,2 +1,2 @@
 # Inicia-oCientificaAWSPython
-Realizar a raspagem de dados  do site do governo e encaminhar os arquivos para a AWS
+Realizar  todas as etapas em Ciência de Dados desde do scraping do site, limpeza dos dados (ETL), e visualização dos dados.
